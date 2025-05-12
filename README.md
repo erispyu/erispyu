@@ -3,9 +3,9 @@
 ## About Me
 I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. I enjoy working on open-source projects and contributing to the developer community.
 
-- 🌱 I’m currently learning Machine Learning, Distributed System and Quantitative Trading.
+- 🌱 I’m currently learning Distributed System and Crypto Trading.
 - 🔭 I’m working on several exciting projects, including a machine learning model for predicting stock prices.
-- 💬 Ask me about Golang, Python, and web development.
+- 💬 Ask me about Golang, Python, Java, and web development.
 
 ## Skills
 - **Languages:** Python, Golang, Java
