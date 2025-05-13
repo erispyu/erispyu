@@ -1,23 +1,36 @@
 # Hi there, I'm Erispyu! 👋
 
 ## About Me
-I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. I enjoy working on open-source projects and contributing to the developer community.
 
-- 🌱 I’m currently learning Distributed System and Crypto Trading.
-- 🔭 I’m working on several exciting projects, including a machine learning model for predicting stock prices.
-- 💬 Ask me about Golang, Python, Java, and web development.
+Hi! I'm a backend engineer focused on building reliable, high-performance systems at scale.
 
-## Skills
-- **Languages:** Python, Golang, Java
-- **Frameworks:** Django, Flask, Spring
-- **Tools:** Docker, Kubernetes, Redis, Kafka
-- **Databases:** MySQL, PostgreSQL, MongoDB
+I’ve worked on global payment platforms, risk control systems, and infrastructure tools supporting tens of millions of transactions per day. My experience spans system design, observability, high-concurrency messaging, and disaster recovery.
+
+## 🛠 Tech Focus
+
+- Languages: Go, Python, Java
+- Infra & Tools: MySQL, Redis, Kafka, Kubernetes, Prometheus, Docker
+- Areas of interest: distributed systems, DevOps tooling, Web3 infrastructure
+
+## ✍️ Side Projects & Interests
+
+- Task orchestration & dependency mapping tools
+- Lightweight monitoring and alerting systems
+- Learning about decentralized systems and smart contracts
 
 ## GitHub Stats
+
 | <a href="https://github.com/erispyu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=erispyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/erispyu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erispyu&layout=compact&hide_border=true" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Contribution Graph
+
 ![erispyu's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=erispyu&theme=github-light)
+
+## 📫 Reach Out
+
+- GitHub: [github.com/erispyu](https://github.com/erispyu)
+- Blog: [Erispyu's Blog](https://blog.erispyu.fun/)
+- Email: [erispyu@gmail.com](mailto:erispyu@gmail.com)
 
 Thank you for visiting my profile! Have a great day! 😊
