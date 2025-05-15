@@ -10,7 +10,7 @@ I’ve worked on global payment platforms, risk control systems, and infrastruct
 
 - Languages: Go, Python, Java
 - Infra & Tools: MySQL, Redis, Kafka, Kubernetes, Prometheus, Docker
-- Areas of interest: distributed systems, DevOps tooling, Web3 infrastructure
+- Areas of interest: distributed systems, DevOps tooling, Crypto trading
 
 ## 📊 GitHub Stats
 
